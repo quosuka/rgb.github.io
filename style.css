@@ -1,0 +1,19 @@
+h1 {
+color: rgb(255,0,419)
+}
+h2 {
+    color: rgb(0,255,100,0.7)
+}
+p {
+    color: rgb(260,20,0,0.5)
+}
+h3 {
+    color: #111;
+}
+main {
+text-align: center;
+align-items: center;
+}
+body {
+    background-color: darkgray;
+}
